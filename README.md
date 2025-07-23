@@ -38,8 +38,11 @@ Experience the AI ABOUT US GENERATOR:
 
 
 ✨Technology Stack
+
 Frontend: PHP, Bootstrap 5, jQuery
+
 AI Engine: Google Gemini API
+
 Hosting: Apache/Nginx compatible
 
 📌 𝐒𝐄𝐎 𝐊𝐞𝐲𝐰𝐨𝐫𝐝𝐬
