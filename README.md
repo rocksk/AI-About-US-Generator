@@ -30,8 +30,18 @@ It is AI Powered tools and used customized technique to build it and it generate
 ⌚Time saving and More Productive
 
 
-𝐋𝐈𝐕𝐄 𝐃𝐄𝐌𝐎
+🚀 𝐋𝐈𝐕𝐄 𝐃𝐄𝐌𝐎
 
 Experience the AI ABOUT US GENERATOR:
 
-https://allaiprompts.net/ai-tools/ai-about-us-generator/
+👉 https://allaiprompts.net/ai-tools/ai-about-us-generator/
+
+
+✨Technology Stack
+Frontend: PHP, Bootstrap 5, jQuery
+AI Engine: Google Gemini API
+Hosting: Apache/Nginx compatible
+
+📌 𝐒𝐄𝐎 𝐊𝐞𝐲𝐰𝐨𝐫𝐝𝐬
+
+About us generator | AI Powered About Us Generator | About us for Blog Website | AI About US Generator for Any Website | SEO Optimized About US Generator | About us Generator for News Website
